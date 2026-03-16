@@ -166,29 +166,7 @@ flutter run
 
 Bagian dokumentasi program yang dapat ditampilkan pada README ini meliputi:
 
-1. Tampilan awal aplikasi (Welcome Page)
 
-2. Halaman Login
-
-3. Halaman Register
-
-4. Validasi form login dan register
-
-5. Halaman utama (Home Page)
-
-6. Tampilan daftar buku
-
-7. Kondisi ketika daftar buku masih kosong
-
-8. Halaman tambah buku
-
-9. Halaman edit buku
-
-10. Dialog konfirmasi hapus buku
-
-11. Dialog konfirmasi logout
-
-12. Notifikasi berhasil / gagal
 
 13. Tampilan light mode
 

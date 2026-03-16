@@ -135,7 +135,7 @@ Berikut langkah-langkah untuk menjalankan aplikasi ini:
 
 4. Buat file `.env` di root project.
 
-5. Isi file ``.env` dengan konfigurasi Supabase berikut:
+5. Isi file `.env` dengan konfigurasi Supabase berikut:
 
 ```dart
 SUPABASE_URL=isi_url_supabase

@@ -166,10 +166,4 @@ flutter run
 
 Bagian dokumentasi program yang dapat ditampilkan pada README ini meliputi:
 
-
-
-13. Tampilan light mode
-
-14. Tampilan dark mode
-
-15. Perbedaan data buku antar akun pengguna
+C:\Users\ASUS\.android\avd\Pixel_4.avd\snapshots\snap_2026-03-16_16-02-58\screenshot.png

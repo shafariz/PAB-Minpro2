@@ -113,6 +113,8 @@ lib/
 │   └── buku_service.dart
 ```
 
+---
+
 ## Dependencies
 
 | Dependency | Fungsi |
@@ -122,6 +124,8 @@ lib/
 | `supabase_flutter`   | Digunakan untuk integrasi Supabase, baik untuk autentikasi maupun database.               |
 | `flutter_dotenv`     | Digunakan untuk membaca konfigurasi rahasia dari file `.env`.                             |
 | `shared_preferences` | Digunakan untuk menyimpan status dark mode/light mode secara lokal.                       |
+
+---
 
 ## Cara Menjalankan Program
 
@@ -141,6 +145,8 @@ Berikut langkah-langkah untuk menjalankan aplikasi ini:
 SUPABASE_URL=isi_url_supabase
 SUPABASE_PUBLISHABLE_KEY=isi_publishable_key
 ```
+
+---
 
 6. Jalankan perintah berikut di terminal:
 

@@ -165,5 +165,3 @@ flutter run
 ## Dokumentasi Program
 
 Bagian dokumentasi program yang dapat ditampilkan pada README ini meliputi:
-
-<img src="C:\Users\ASUS\.android\avd\Pixel_4.avd\snapshots\snap_2026-03-16_16-02-58\screenshot.png" width="400">

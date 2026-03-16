@@ -1,5 +1,8 @@
 # Favobooks
 
+Shafa Rizqi Nur Wahidah (2409116041)
+Sistem Informasi B 2024
+
 ## Deskripsi Aplikasi
 
 **Favobooks** adalah aplikasi mobile berbasis Flutter yang digunakan untuk menyimpan dan mengelola daftar buku favorit pengguna. Aplikasi ini dikembangkan dari Mini Project 1 dan dilanjutkan pada Mini Project 2 dengan menambahkan integrasi database menggunakan **Supabase** serta fitur autentikasi pengguna.
@@ -107,3 +110,14 @@ lib/
 │   └── welcome_page.dart
 ├── services/
 │   └── buku_service.dart
+
+## Dependencies
+
+| Dependency | Fungsi |
+|---------------|--------|
+| `get`                | Digunakan untuk navigasi antar halaman, dialog, snackbar, dan state management sederhana. |
+| `google_fonts`       | Digunakan untuk mengatur font aplikasi menggunakan font Poppins.                          |
+| `supabase_flutter`   | Digunakan untuk integrasi Supabase, baik untuk autentikasi maupun database.               |
+| `flutter_dotenv`     | Digunakan untuk membaca konfigurasi rahasia dari file `.env`.                             |
+| `shared_preferences` | Digunakan untuk menyimpan status dark mode/light mode secara lokal.                       |
+

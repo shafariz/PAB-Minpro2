@@ -1,6 +1,7 @@
 # Favobooks
 
 Shafa Rizqi Nur Wahidah (2409116041)
+
 Sistem Informasi B 2024
 
 ## Deskripsi Aplikasi
@@ -122,3 +123,33 @@ lib/
 | `flutter_dotenv`     | Digunakan untuk membaca konfigurasi rahasia dari file `.env`.                             |
 | `shared_preferences` | Digunakan untuk menyimpan status dark mode/light mode secara lokal.                       |
 
+## Cara Menjalankan Program
+
+Berikut langkah-langkah untuk menjalankan aplikasi ini:
+
+1. Clone repository GitHub ini ke komputer.
+
+2. Buka project menggunakan VS Code atau Android Studio.
+
+3. Pastikan Flutter SDK sudah terpasang.
+
+4. Buat file `.env` di root project.
+
+5. Isi file ``.env` dengan konfigurasi Supabase berikut:
+
+```dart
+SUPABASE_URL=isi_url_supabase
+SUPABASE_PUBLISHABLE_KEY=isi_publishable_key
+```
+
+6. Jalankan perintah berikut di terminal:
+
+```dart
+flutter pub get
+```
+
+8. Jalankan aplikasi dengan perintah:
+
+```dart
+flutter run
+```

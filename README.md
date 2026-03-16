@@ -141,7 +141,7 @@ Berikut langkah-langkah untuk menjalankan aplikasi ini:
 
 4. Buat file `.env` di root project.
 
-5. Isi file `.env` dengan konfigurasi Supabase (ada di kolom komentar pribadi classroom)
+5. Isi file `.env` dengan konfigurasi Supabase (ada di kolom komentar pribadi classroom).
 
 6. Jalankan perintah berikut di terminal:
 

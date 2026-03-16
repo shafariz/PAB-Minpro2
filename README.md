@@ -110,6 +110,7 @@ lib/
 │   └── welcome_page.dart
 ├── services/
 │   └── buku_service.dart
+```
 
 ## Dependencies
 

@@ -144,8 +144,8 @@ Berikut langkah-langkah untuk menjalankan aplikasi ini:
 5. Isi file `.env` dengan konfigurasi Supabase berikut:
 
 ```dart
-SUPABASE_URL=isi_url_supabase
-SUPABASE_PUBLISHABLE_KEY=isi_publishable_key
+SUPABASE_URL=https://fbjmonyffjvutxbkitli.supabase.co
+SUPABASE_PUBLISHABLE_KEY=sb_publishable_DrKL4McykvUHfn032oLwLQ_0A8gXgKp
 ```
 
 6. Jalankan perintah berikut di terminal:

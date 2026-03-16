@@ -117,6 +117,8 @@ lib/
 
 ## Dependencies
 
+Berikut adalah dependencies utama yang digunakan pada aplikasi ini:
+
 | Dependency | Fungsi |
 |---------------|--------|
 | `get`                | Digunakan untuk navigasi antar halaman, dialog, snackbar, dan state management sederhana. |
